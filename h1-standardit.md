@@ -1,5 +1,5 @@
 # h1 standardit
-## a) Sanastoa
+## a) Termejä
 * 3.2 attack
 
 Attack, eli hyökkäys tarkoittaa tapahtumaa missä hyökkääjä koittaa tuhota, varastaa, estää pääsyn tai väärinkäyttää jonkun toisen tietoja.
@@ -17,6 +17,13 @@ Arvioinnilla selvitetään onko jokin asia tehtävään soveltuva, jotta asetetu
 
 Jonkin asian heikkous, jota voidaan hyväksikäyttää
 
-* Lähde: ISO270000-2020
+* Lähde: ISO/IEC 270000-2020
 
-## b)
+## b) ISO/IEC 27034
+Standardin tavoitteena on avustaa organisaatioita integroimaan tietoturva osaksi sovellusten elinkaarta tarjoamalla:
+* käsitteitä, periaatteita, viitekehyksiä ja prosesseja.
+* Menetelmät tietoturvavaatimusten määrittämiseen, riskien arviointiin ja halutun luottamustason asettamiseen.
+* Ohjeet hyväksymiskriteerien määrittämiseen, ulkoistetuissa sovellusprojekteissa.
+* Prosesseja joilla osoittaa sovellusten turvallinen käyttö määritellyssä ympäristössä.
+* Tukea ISO/IEC 27001 -standardille ja apua tietoturvassa riskienhallinnan kautta.
+* Viitekehyksen ISO/IEC 27002 ja muiden standardien mukaiseen tietoturvan toteuttamiseen.
