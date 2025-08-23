@@ -40,7 +40,7 @@ Standardin tavoitteena on avustaa organisaatioita integroimaan tietoturva osaksi
 5. Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa paljolti se, kuinka arkaluonteisia tietoja ohjelmistolla on tarkoitus käsitellä.
 * Olen eri mieltä. Perus tietoturva täytyisi olla aina normi. Vaikka jollain ohjelmistolla ei käsitellä arkaluonteista tietoa, mutta se ei ole puutteellisen tietoturvan takia saatavilla asiakkaille niin se voi tulla hyvinkin kalliiksi.
 6. Ohjelmistokehittäjät näkevät omat ohjelmistonsa aina merkittävästi riskialttiimpina, kuin muiden tekemät ohjelmistot.
-
+* Täysin samaa mieltä. Kaikki näkevät omat tuotokset hyvin kriittisessä valossa. Ainakin itse teen näin, oli kyse sitten koulutyöstä tai musiikista. 
 ## d) riskienhallintasuunnitelma
 
 
