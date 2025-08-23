@@ -34,9 +34,11 @@ Standardin tavoitteena on avustaa organisaatioita integroimaan tietoturva osaksi
 2. Hallinnollinen tietoturva on teknisen tietoturvan onnistumisen edellytys.
 * Olen samaa mieltä. Hallinnollisen titetoturvan avulla tunnistetaan teknisen tietoturvan tavoitteet.
 3. Automaatiotestaus on ohjelmiston tietoturvan kannalta erittäin tärkeää.
-* Olen samaa mieltä. Automaatiotestaus nopeuttaa paljon. Täytyy vain tiedostaa mitä kaikkea se testaa ja täytyykö tehdä lisätestejä tai päivittää testiohjelmaa.
+* Olen osittain samaa mieltä. Automaatiotestaus nopeuttaa paljon. Täytyy vain tiedostaa mitä kaikkea se testaa ja täytyykö tehdä lisätestejä tai päivittää testiohjelmaa.
 4. Ohjelmistoa suunniteltaessa voidaan tehdä paljonkin auttamaan käyttäjää toimimaan tietoturvallisesti. Usein nämä toimenpiteet kuitenkin vaikuttavat negatiivisesti käytettävyyteen.
+* Osittain samaa mieltä. Varmasti nämä asiat pystyttäisiin tuomaan käyttäjäystävällisemmin ohjelmistoon, jotta kokemus pysyisi sulavana.
 5. Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa paljolti se, kuinka arkaluonteisia tietoja ohjelmistolla on tarkoitus käsitellä.
+* Olen eri mieltä. Perus tietoturva täytyisi olla aina normi. Vaikka jollain ohjelmistolla ei käsitellä arkaluonteista tietoa, mutta se ei ole puutteellisen tietoturvan takia saatavilla asiakkaille niin se voi tulla hyvinkin kalliiksi.
 6. Ohjelmistokehittäjät näkevät omat ohjelmistonsa aina merkittävästi riskialttiimpina, kuin muiden tekemät ohjelmistot.
 
 ## d) riskienhallintasuunnitelma
