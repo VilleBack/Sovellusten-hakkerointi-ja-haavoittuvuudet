@@ -27,3 +27,29 @@ Standardin tavoitteena on avustaa organisaatioita integroimaan tietoturva osaksi
 * Prosesseja joilla osoittaa sovellusten turvallinen käyttö määritellyssä ympäristössä.
 * Tukea ISO/IEC 27001 -standardille ja apua tietoturvassa riskienhallinnan kautta.
 * Viitekehyksen ISO/IEC 27002 ja muiden standardien mukaiseen tietoturvan toteuttamiseen.
+
+## c) Laatulöpinät 30: Tietoturvallisuus ohjelmistokehityksessä
+1. Mikään ohjelmisto ei ole täysin tietoturvallinen.
+* Olen täysin samaa mieltä. Ei ikinä mielestäni kannata ajatella, että joku olisi täysin tietoturvallinen.
+2. Hallinnollinen tietoturva on teknisen tietoturvan onnistumisen edellytys.
+* Olen samaa mieltä. Hallinnollisen titetoturvan avulla tunnistetaan teknisen tietoturvan tavoitteet.
+3. Automaatiotestaus on ohjelmiston tietoturvan kannalta erittäin tärkeää.
+* Olen samaa mieltä. Automaatiotestaus nopeuttaa paljon. Täytyy pitää vain mielessä mitä kaikkea se testaa ja täytyykö tehdä lisätestejä tai päivittää testiohjelmaa.
+4. Ohjelmistoa suunniteltaessa voidaan tehdä paljonkin auttamaan käyttäjää toimimaan tietoturvallisesti. Usein nämä toimenpiteet kuitenkin vaikuttavat negatiivisesti käytettävyyteen.
+5. Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa paljolti se, kuinka arkaluonteisia tietoja ohjelmistolla on tarkoitus käsitellä.
+6. Ohjelmistokehittäjät näkevät omat ohjelmistonsa aina merkittävästi riskialttiimpina, kuin muiden tekemät ohjelmistot.
+
+## d) riskienhallintasuunnitelma
+
+
+
+
+
+
+
+
+
+
+
+
+
