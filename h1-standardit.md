@@ -28,6 +28,8 @@ Standardin tavoitteena on avustaa organisaatioita integroimaan tietoturva osaksi
 * Tukea ISO/IEC 27001 -standardille ja apua tietoturvassa riskienhallinnan kautta.
 * Viitekehyksen ISO/IEC 27002 ja muiden standardien mukaiseen tietoturvan toteuttamiseen.
 
+Lähde: SO/IEC 27034-1:2011
+
 ## c) Laatulöpinät 30: Tietoturvallisuus ohjelmistokehityksessä
 1. Mikään ohjelmisto ei ole täysin tietoturvallinen.
 * Olen täysin samaa mieltä. Ei ikinä kannata ajatella, että ohjelma olisi täysin tietoturvallinen.
@@ -40,7 +42,10 @@ Standardin tavoitteena on avustaa organisaatioita integroimaan tietoturva osaksi
 5. Ohjelmiston tietoturvallisuuden suunnitteluun vaikuttaa paljolti se, kuinka arkaluonteisia tietoja ohjelmistolla on tarkoitus käsitellä.
 * Olen eri mieltä. Perus tietoturva täytyisi olla aina normi. Vaikka jollain ohjelmistolla ei käsitellä arkaluonteista tietoa, mutta se ei ole puutteellisen tietoturvan takia saatavilla asiakkaille niin se voi tulla hyvinkin kalliiksi.
 6. Ohjelmistokehittäjät näkevät omat ohjelmistonsa aina merkittävästi riskialttiimpina, kuin muiden tekemät ohjelmistot.
-* Täysin samaa mieltä. Kaikki näkevät omat tuotokset hyvin kriittisessä valossa ja niitä tulee tarkasteltua "suurennuslasin" kanssa. Ainakin itse teen näin, oli kyse sitten koulutyöstä tai musiikista. 
+* Täysin samaa mieltä. Kaikki näkevät omat tuotokset hyvin kriittisessä valossa ja niitä tulee tarkasteltua "suurennuslasin" kanssa. Ainakin itse teen näin, oli kyse sitten mistä tahansa omasta tuotoksesta.
+
+Lähde: https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/
+
 ## d) riskienhallintasuunnitelma
 * Ympäristö
 
@@ -65,6 +70,11 @@ Isäntäkoneen ja virtuaalikoneen välillä ei jaeta kansioita.
 Käytän VMwaren "snapshot" toimintoa, jolla pystyn palauttamaan virtuaalikoneen puhtaaseen tilaan.
 
 Pidän oman koneeni virustorjunnan ajan tasalla, jotta se huomaisi mahdollisimman nopeasti jos leviäminen tapahtuisi.
+
+## Lähteet
+* ISO/IEC 270000-2020 Luettu 23.08.25
+* SO/IEC 27034-1:2011 Luettu 23.08.25
+* https://www.arter.fi/podcast/laatulopinat-podcast-tietoturvallisuus-ohjelmistokehityksessa-tarkastele-kokonaisuutta-ja-hyodynna-viitekehykset/ Luettu/kuunneltu 23.08.25
 
 
 
