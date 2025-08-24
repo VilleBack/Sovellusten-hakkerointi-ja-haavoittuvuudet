@@ -42,9 +42,29 @@ Standardin tavoitteena on avustaa organisaatioita integroimaan tietoturva osaksi
 6. Ohjelmistokehittäjät näkevät omat ohjelmistonsa aina merkittävästi riskialttiimpina, kuin muiden tekemät ohjelmistot.
 * Täysin samaa mieltä. Kaikki näkevät omat tuotokset hyvin kriittisessä valossa ja niitä tulee tarkasteltua "suurennuslasin" kanssa. Ainakin itse teen näin, oli kyse sitten koulutyöstä tai musiikista. 
 ## d) riskienhallintasuunnitelma
+* Ympäristö
 
+Kurssia varten asennan omalle tietokoneelleni VMware virtualisointiohjelman jossa käytän Kali Linux käyttöjärjestelmää.
 
+Kurssin harjoitukset tulen siis toteuttamaan virtuaalikoneella enkä omalla windows koneellani.
 
+* Suojaaminen ulkopuolisilta
+
+Käytän virtuaalikoneessa NAT-tilaa mikä rajoittaa yhteyden ottamista koneeseen ulkopuolelta.
+
+Pidän virtuaalikoneen ohjelmistot päivitettynä.
+
+En avaa tarpeettomia portteja.
+
+* Haittaohjelmien leviämisen estäminen
+
+Käytän virtuaalikonetta vain kurssin harjoituksiin.
+
+Isäntäkoneen ja virtuaalikoneen välillä ei jaeta kansioita.
+
+Käytän VMwaren "snapshot" toimintoa, jolla pystyn palauttamaan virtuaalikoneen puhtaaseen tilaan.
+
+Pidän oman koneeni virustorjunnan ajan tasalla, jotta se huomaisi mahdollisimman nopeasti jos leviäminen tapahtuisi.
 
 
 
