@@ -13,4 +13,7 @@
 * Ennaltaehkäisy:
   * Toteuta pääsynhallinta palvelinpuolella.
   * "deny by default" periaate. Oletusarvona pääsy estetään.
+  * Käytä samoja pääsynhallintamekanismeja kaikilla osa-alueilla.
+  * Käyttäjillä oikeudet vain omiin tietoihinsa.
+  * Poista käytöstä hakemistolistaukset.
   * 
