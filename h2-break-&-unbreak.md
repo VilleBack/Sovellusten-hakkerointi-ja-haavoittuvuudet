@@ -16,4 +16,6 @@
   * Käytä samoja pääsynhallintamekanismeja kaikilla osa-alueilla.
   * Käyttäjillä oikeudet vain omiin tietoihinsa.
   * Poista käytöstä hakemistolistaukset.
-  * 
+  * Pidä lokia pääsynhallintavioista.
+  * Rajoita API ja kontroller kutsuja.
+  * JWT-tunnisteet pidetään lyhytkestoisina ja pidemmissä noudatetaan Oauth-standardia.
